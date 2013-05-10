@@ -170,6 +170,6 @@
     }
 
     function render() {
-        map.renderDebugInfo(400, 16);
+        //map.renderDebugInfo(400, 16);
     }
 })();
