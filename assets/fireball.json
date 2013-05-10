@@ -1,0 +1,145 @@
+{"frames": [
+	{
+		"filename": "fireball01_01.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":477,"w":35,"h":33},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":33},
+		"sourceSize": {"w":35,"h":33}
+	},
+	{
+		"filename": "fireball02_02.png", "rotated": false,"trimmed": true,
+		"frame": {"x":121,"y":351,"w":42,"h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":39},
+		"sourceSize": {"w":42,"h":39}
+	},
+	{
+		"filename": "fireball03_03.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":464,"w":48,"h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":45},
+		"sourceSize": {"w":48,"h":45}
+	},
+	{
+		"filename": "fireball04_04.png", "rotated": false,"trimmed": true,
+		"frame": {"x":120,"y":405,"w":52,"h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":48},
+		"sourceSize": {"w":52,"h":48}
+	},
+	{
+		"filename": "fireball05_05.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":351,"w":55,"h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":52},
+		"sourceSize": {"w":55,"h":52}
+	},
+	{
+		"filename": "fireball06_06.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":236,"w":59,"h":54},
+		"spriteSourceSize": {"x":0,"y":0,"w":59,"h":54},
+		"sourceSize": {"w":59,"h":54}
+	},
+	{
+		"filename": "fireball07_07.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":118,"w":60,"h":56},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":56},
+		"sourceSize": {"w":60,"h":56}
+	},
+	{
+		"filename": "fireball08_08.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":60,"w":61,"h":56},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":56},
+		"sourceSize": {"w":61,"h":56}
+	},
+	{
+		"filename": "fireball09_09.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":120,"w":62,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+		"sourceSize": {"w":62,"h":58}
+	},
+	{
+		"filename": "fireball10_10.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":180,"w":62,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+		"sourceSize": {"w":62,"h":58}
+	},
+	{
+		"filename": "fireball11_11.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":299,"w":62,"h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":57},
+		"sourceSize": {"w":62,"h":57}
+	},
+	{
+		"filename": "fireball12_12.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":62,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+		"sourceSize": {"w":62,"h":58}
+	},
+	{
+		"filename": "fireball13_13.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":60,"w":62,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+		"sourceSize": {"w":62,"h":58}
+	},
+	{
+		"filename": "fireball14_14.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":0,"w":61,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":58},
+		"sourceSize": {"w":61,"h":58}
+	},
+	{
+		"filename": "fireball15_15.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":240,"w":62,"h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":57},
+		"sourceSize": {"w":62,"h":57}
+	},
+	{
+		"filename": "fireball16_16.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":176,"w":59,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":59,"h":58},
+		"sourceSize": {"w":59,"h":58}
+	},
+	{
+		"filename": "fireball17_17.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":358,"w":62,"h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":57},
+		"sourceSize": {"w":62,"h":57}
+	},
+	{
+		"filename": "fireball18_18.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":292,"w":57,"h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":57,"h":57},
+		"sourceSize": {"w":57,"h":57}
+	},
+	{
+		"filename": "fireball19_19.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":417,"w":62,"h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":58},
+		"sourceSize": {"w":62,"h":58}
+	},
+	{
+		"filename": "fireball20_20.png", "rotated": false,"trimmed": true,
+		"frame": {"x":64,"y":405,"w":54,"h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":57},
+		"sourceSize": {"w":54,"h":57}
+	},
+	{
+		"filename": "fireball22_22.png", "rotated": false,"trimmed": true,
+		"frame": {"x":120,"y":455,"w":46,"h":49},
+		"spriteSourceSize": {"x":0,"y":0,"w":46,"h":49},
+		"sourceSize": {"w":46,"h":49}
+	},
+	{
+		"filename": "fireball24_24.png", "rotated": false,"trimmed": true,
+		"frame": {"x":123,"y":292,"w":38,"h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":45},
+		"sourceSize": {"w":38,"h":45}
+	},
+	{
+		"filename": "fireball25_25.png", "rotated": false,"trimmed": true,
+		"frame": {"x":37,"y":477,"w":24,"h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+		"sourceSize": {"w":24,"h":28}
+	}
+	]
+,"meta": {
+	"app": "ShoeBox",
+	"size": {"w":256,"h":512}
+}
+}

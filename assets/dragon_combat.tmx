@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="main_tiles" tilewidth="32" tileheight="32">
+  <image source="Tilesheet-land-v5.png" width="320" height="384"/>
+ </tileset>
+ <layer name="grass" width="50" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztl7sOgCAMRfkUv8fH4GPzsemq/z/ZxMUQSAgttFWGM0BYDpcW6I0xh3IG4AKqF7U11sDp8NAI1qPxzOfONHcebeC6TrhHKmwP3zmRDiaPDVgFOGA9JmAU4ID1kAS3B1V/5vagonjIIqVHTF+Ovb9SeuTsy5QeoW8nLK6cueoD4+zKudT5g5S/45/ykPaW565zqv34ep3PwK6cBbgB6/jLLA==
+  </data>
+ </layer>
+ <layer name="collision" width="50" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztl8EKgDAMQ/0n9age1f//IeuhMGVCSeO2wh7kssOauujsMHRqMYom0Wxcb5VFtIo243qr7KJDdBrXO09q5lZrp0J9ILll1dfaqdD3B8ktqz6zD4S/+ij9HdAz9Pah+3j8MzLO8OGldjZZ9D54pNlG740022jGvT7ez7L0faz++/3B3QeFVZ+RbQX5T2TWZxFtvvmi1HwTba69yXmOeO45zxHn2oieLVwADC95
+  </data>
+ </layer>
+ <layer name="rocks" width="50" height="25" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzTZ2BgsB7iWA+I9RlQARvD0APY/DEUAaX+8MYhLkiBmeQAeseHD5HqSE3bwzVd0Ts9UAsM1/ggFbBTyyEUgtH4oA7wopI5A+0PaoFRfwwuMNj8QW4bldb+oFe5TE1/ENt2ogZAj7eBSlfUtnOw5Q9yAaX+EKCWQygEIyk+qNWWp1bcYSubR1J8DAUA88dAjz9RY/wKALqbIRE=
+  </data>
+ </layer>
+</map>
